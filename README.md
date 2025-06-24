@@ -1,5 +1,9 @@
 # no_fap
 
+WARNING!!
+WARNING!!
+*** I made this app using AI tool called "Chat GPT" for generate code and figma for design and this version of NO FAP contains "SHARED PREFERENCES to store user data and notes" ***
+
 A new Flutter project.
 
 ## Getting Started
